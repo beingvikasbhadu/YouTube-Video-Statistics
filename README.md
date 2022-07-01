@@ -23,7 +23,7 @@ To run this program you will require a API key. Register your API key by clickin
 # :pushpin:Installation
 * First clone the repo
 * Make a new python environment If you are using anaconda just type conda create -n jarvis python==3.8.5 in anaconda prompt
-* To activate the environment conda activate jarvis
+* Activate the environment
 * Navigate to the directory of your project
 * Install all the requirements by just hitting pip install -r requirements.txt
 * Run the program by python main.py
