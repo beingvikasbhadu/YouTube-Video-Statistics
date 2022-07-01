@@ -1,4 +1,4 @@
-# :mag_right:YouTube Video-Statistics
+# :bar_chart:YouTube Video-Statistics
 I scripted a python script, with the help of this you can findout Statistics of any youtube video.
 
 # :hammer:Buit With
@@ -22,9 +22,15 @@ To run this program you will require a API key. Register your API key by clickin
 * Run the program by python main.py
 * Enjoy !!!!
 
+# :clipboard:Result
+![image](https://user-images.githubusercontent.com/98146902/176901424-f03180d8-a26b-41a3-ab6e-43f10e235b69.png)
+<p align="center">:point_down:</p>
+
+![image](https://user-images.githubusercontent.com/98146902/176901951-3b1b7fe4-008b-47a7-bae4-607a0c0a374b.png)
+
+
 # :name_badge:License 
 This project is licensed under [MIT License](https://github.com/beingvikasbhadu/YouTube-Video-Statistics/new/main)2022 vikas bhadu
-
 
 # :arrow_upper_right:Future Improvements
 * GUI can be made it more nicer to look at and functional
