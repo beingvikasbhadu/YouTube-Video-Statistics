@@ -30,7 +30,7 @@ To run this program you will require a API key. Register your API key by clickin
 
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/YouTube-Video-Statistics/new/main) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/YouTube-Video-Statistics/blob/main/LICENSE) 2022 vikas bhadu
 
 # :arrow_upper_right:Future Improvements
 * GUI can be made it more nicer to look at and functional
